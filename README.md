@@ -1,4 +1,4 @@
-# Google Maps API & NASA API
+# Google Maps & NASA API
 
 #### By Haley Bristol
 
